@@ -7,10 +7,11 @@
 const nestor = {
   pronouns: "he" | "his",
   code: [JavaScript, TypeScript, Python, Java, C],
-  specialty: ["Web Development", "Full-stack Development", "iOS Development"],
+  specialty: ["AI Development", "Web Development", "Full-stack Development", "iOS Development"],
   interests: ["Game Development", "Coffee", "Guitar"],
+  AI Framework: [LangChain],
   tools: [React, Node, Docker, Kubernetes],
   databases: [MySQL, Redis, MongoDB, HBase],
-  data_processing: [Hadoop, Apache.Spark, Apache.Druid, Apache.Kafka, Apache.Samza]
+  data_processing: [Hadoop, Apache.Spark, Apache.Druid, Apache.Kafka, Apache.Samza],
 }
 ```

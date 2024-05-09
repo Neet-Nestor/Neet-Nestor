@@ -9,7 +9,7 @@ const nestor = {
   code: [JavaScript, TypeScript, Python, Java, C],
   specialty: ["AI Development", "Web Development", "Full-stack Development", "iOS Development"],
   interests: ["Game Development", "Coffee", "Guitar"],
-  AI Framework: [LangChain],
+  AI Development: [RAG, AI Agent, LangChain],
   tools: [React, Node, Docker, Kubernetes],
   databases: [MySQL, Redis, MongoDB, HBase],
   data_processing: [Hadoop, Apache.Spark, Apache.Druid, Apache.Kafka, Apache.Samza],

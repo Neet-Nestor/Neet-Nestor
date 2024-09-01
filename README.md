@@ -12,7 +12,7 @@ const nestor = {
   AI_development: [RAG, AI_Agent, LangChain],
   tools: [React, Node, Docker, Kubernetes],
   databases: [MySQL, Redis, MongoDB, HBase],
-  data_processing: [Hadoop, Apache.Spark, Apache.Druid, Apache.Kafka, Apache.Samza],
+  data_processing: [Apache.Hadoop, Apache.Spark, Apache.Druid, Apache.Kafka, Apache.Samza],
 }
 ```
 

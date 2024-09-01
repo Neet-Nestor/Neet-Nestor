@@ -5,7 +5,7 @@
 
 ```javascript
 const nestor = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [JavaScript, TypeScript, Python, Java, C],
   specialty: ["AI Development", "Web Development", "Full-stack Development", "iOS Development"],
   interests: ["Game Development", "Coffee", "Guitar"],

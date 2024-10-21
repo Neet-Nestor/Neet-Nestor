@@ -18,3 +18,9 @@ const nestor = {
 
 ### <img width=30 bottom=-5 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZmaXh0ZGowN3V5MDZ2OXpsYnh5dGFvOGt0cmVnOWYydXFwcHI4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Rrh06GopYdQPFva7AF/giphy.gif" /> Want to know me even more...?
 https://neet.coffee&nbsp;&nbsp;
+
+### <img width=40 bottom=-5 src="https://github.com/user-attachments/assets/827b3967-aaef-449a-b496-a1e74b015218" /> Some Stats...
+
+<img src="https://github-readme-stats.vercel.app/api?username=neet-nestor&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neet-nestor&theme=tokyonight" alt="GitHub Streak" />

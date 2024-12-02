@@ -21,4 +21,10 @@ https://neet.coffee&nbsp;&nbsp;
 
 ### <img width=40 bottom=-5 src="https://github.com/user-attachments/assets/827b3967-aaef-449a-b496-a1e74b015218" /> Some Stats...
 
-<img src="https://github-readme-stats.vercel.app/api?username=neet-nestor&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<div>
+<img src="https://raw.githubusercontent.com/Neet-Nestor/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/Neet-Nestor/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+</div>
+<div>
+<img src="https://raw.githubusercontent.com/Neet-Nestor/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/Neet-Nestor/github-stats/master/generated/languages.svg#gh-light-mode-only" />

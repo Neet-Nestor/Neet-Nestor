@@ -7,11 +7,12 @@
 const nestor = {
   pronouns: "he" | "him",
   specialty: ["Multi-agent Systems", "AI Coding Agents", "Full-stack Development"],
-  code: [JavaScript, TypeScript, Python, Java, C],
+  coding_languages: [JavaScript, TypeScript, Python, Java, C],
   interests: ["Game Dev", "Coffee", "Guitar"],
   tools: [React, Node, Docker, Kubernetes],
   databases: [MySQL, Redis, MongoDB, HBase],
   data_processing: [Apache.Hadoop, Apache.Spark, Apache.Druid, Apache.Kafka, Apache.Samza],
+  achievement: "spent $>50k in a day in LLM API cost for agentic research",
 }
 ```
 

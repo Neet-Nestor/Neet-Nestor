@@ -6,7 +6,7 @@
 ```javascript
 const nestor = {
   pronouns: "he" | "him",
-  specialty: ["Multi-agent Systems", "AI Coding Agents", "Web Development", "Full-stack Development", "iOS Development"],
+  specialty: ["Multi-agent Systems", "AI Coding Agents", "Full-stack Development"],
   code: [JavaScript, TypeScript, Python, Java, C],
   interests: ["Game Dev", "Coffee", "Guitar"],
   tools: [React, Node, Docker, Kubernetes],

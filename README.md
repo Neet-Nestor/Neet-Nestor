@@ -6,10 +6,9 @@
 ```javascript
 const nestor = {
   pronouns: "he" | "him",
+  specialty: ["Multi-agent Systems", "AI Coding Agents", "Web Development", "Full-stack Development", "iOS Development"],
   code: [JavaScript, TypeScript, Python, Java, C],
-  specialty: ["AI Development", "Web Development", "Full-stack Development", "iOS Development"],
-  interests: ["Game Development", "Coffee", "Guitar"],
-  AI_development: [RAG, AI_Agent, LangChain],
+  interests: ["Game Dev", "Coffee", "Guitar"],
   tools: [React, Node, Docker, Kubernetes],
   databases: [MySQL, Redis, MongoDB, HBase],
   data_processing: [Apache.Hadoop, Apache.Spark, Apache.Druid, Apache.Kafka, Apache.Samza],
